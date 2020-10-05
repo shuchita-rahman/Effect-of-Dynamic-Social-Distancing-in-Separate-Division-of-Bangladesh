@@ -116,9 +116,9 @@ This report show how division wise virus is effecting differently and taking sam
 approach for every division is unrealistic. Hence without opening full lock down all over Bangladesh
 division wise government should take separate strategy for each division.
 ### Reference
-https://arxiv.org/pdf/2004.00553v1.pdf
-https://arxiv.org/pdf/2005.02365v2.pdf
-https://towardsdatascience.com/social-distancing-to-slow-the-coronavirus-768292f04296
-https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext
+1. https://arxiv.org/pdf/2004.00553v1.pdf
+2. https://arxiv.org/pdf/2005.02365v2.pdf
+3. https://towardsdatascience.com/social-distancing-to-slow-the-coronavirus-768292f04296
+4. https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext
  
 data source : http://covid19tracker.gov.bd/
